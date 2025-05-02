@@ -28,3 +28,10 @@ Quick Recon is a Python tool that provides quick access to system information li
 3. **Run the Tool**:
    ```bash
    python quick_recon.py
+Now you should be able to use the tool to gather system information!
+
+## Usage 
+Once the tool is running, you’ll see a menu with options to retrieve user, system, RAM, IP, CPU, and SSD information. Just choose the appropriate option by entering the number corresponding to the information you want.
+
+## License 
+This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
