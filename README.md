@@ -21,7 +21,7 @@ Quick Recon is a Python tool that provides quick access to system information li
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/quick-recon.git
+   git clone https://github.com/k1r1n-p/Quick-Recon.git
 2. **Install the dependencies:
    ```bash
    pip install psutil
